@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d3e3113-4888-4076-8e5a-0bbf30f530ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/combotreegrid/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/combotreegrid/multiple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/combotreegrid/treegrid_data1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/datetimespinner/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/datetimespinner/clearicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/datetimespinner/fluid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/datetimespinner/format.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/numberspinner/align.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/numberspinner/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/numberspinner/fluid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/numberspinner/increment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/numberspinner/range.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/propertygrid/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/propertygrid/customcolumns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/propertygrid/groupformat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/propertygrid/propertygrid_data1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/switchbutton/action.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/switchbutton/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/demo/validatebox/validateonblur.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-am.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-cz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-jp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-pt_BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-sv_SE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-ua.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-zh_CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/locale/easyui-lang-zh_TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.combo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.datebox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.dialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.filebox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.panel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.tagbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.textbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/plugins/jquery.window.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/angular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/datalist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/filebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/passwordbox_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/passwordbox_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/tagbox_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/numberbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/passwordbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/radiobutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/sidemenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/switchbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/tagbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/textbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/black/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/datalist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/filebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/passwordbox_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/passwordbox_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/tagbox_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/numberbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/passwordbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/radiobutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/sidemenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/switchbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/tagbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/textbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/bootstrap/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/color.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/datalist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/filebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/passwordbox_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/passwordbox_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/tagbox_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/numberbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/passwordbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/radiobutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/sidemenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/switchbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/tagbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/textbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/default/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/datalist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/filebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/passwordbox_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/passwordbox_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/tagbox_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/numberbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/passwordbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/radiobutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/sidemenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/switchbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/tagbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/textbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/gray/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/cut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/edit_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/edit_remove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/filesave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/large_chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/large_clipart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/large_picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/large_shapes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/large_smartart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/mini_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/mini_edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/mini_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/pencil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/redo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/reload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/sum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/tip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/icons/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/datalist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/filebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/passwordbox_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/passwordbox_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/tagbox_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/numberbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/passwordbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/radiobutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/sidemenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/switchbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/tagbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/textbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material-teal/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/datalist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/filebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/passwordbox_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/passwordbox_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/tagbox_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/numberbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/passwordbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/radiobutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/sidemenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/switchbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/tagbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/textbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/material/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/checkbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/combo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/combobox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/datagrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/datalist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/datebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/easyui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/filebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/accordion_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/calendar_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/combo_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/datagrid_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/datebox_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/layout_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/linkbutton_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/menu_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/messager_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/pagination_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/panel_tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/passwordbox_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/passwordbox_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/searchbox_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/slider_handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/spinner_arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/tabs_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/tagbox_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/tree_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/images/validatebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/linkbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/menubutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/messager.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/numberbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/passwordbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/propertygrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/radiobutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/searchbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/sidemenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/splitbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/switchbutton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/tagbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/textbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/validatebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/metro/window.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/react.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/themes/vue.css" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/gmall-parent/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-bean/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-interface/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-common-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-service-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-web-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-usermanage/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-order-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-manage-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-usermanage-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-manage-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>D:\gmall0416\gmall-bean\src\main\java\com\atguigu\gmall0416\bean</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/Column.java" />
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/GenerateValue.java" />
+        <option value="$PROJECT_DIR$/gmall-parent/src/main/java/com/atguigu/gmall0416/UserDemo.java" />
+        <option value="$PROJECT_DIR$/gmall-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/UserInfo.java" />
+        <option value="$PROJECT_DIR$/gmall-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-usermanage/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall0416/usermanage/mapper/UserInfoMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall0416/usermanage/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall0416/usermanage/controller/UserInfoController.java" />
+        <option value="$PROJECT_DIR$/gmall-order-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/UserAddress.java" />
+        <option value="$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall0416/usermanage/mapper/UserAddressMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-interface/src/main/java/com/atguigu/gmall0416/service/UserAddressService.java" />
+        <option value="$PROJECT_DIR$/gmall-interface/src/main/java/com/atguigu/gmall0416/service/UserInfoService.java" />
+        <option value="$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall0416/usermanage/service/impl/UserInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall0416/usermanage/GmallUsermanageApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-usermanage/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-order-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-order-web/src/main/java/com/atguigu/gmall0416/order/GmallOrderWebApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-order-web/src/main/java/com/atguigu/gmall0416/order/controller/OderController.java" />
+        <option value="$PROJECT_DIR$/gmall-usermanage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-manage-web/src/main/java/com/atguigu/gmall0416/usermanage/GmallUsermanageWebApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-web-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/src/easyloader.js" />
+        <option value="$PROJECT_DIR$/gmall-manage-web/src/main/java/com/atguigu/gmall0416/usermanage/controller/ManageController.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-web/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/gmall-manage-web/src/main/resources/templates/attrListPage.html" />
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/BaseCatalog1.java" />
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/BaseCatalog2.java" />
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/BaseCatalog3.java" />
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/BaseAttrInfo.java" />
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/BaseAttrValue.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/GmallManageServiceApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/mapper/BaseCatalog1Mapper.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/mapper/BaseCatalog2Mapper.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/mapper/BaseCatalog3Mapper.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/mapper/BaseAttrInfoMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/mapper/BaseAttrValueMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-interface/src/main/java/com/atguigu/gmall0416/service/ManageService.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/service/impl/ManageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-web/src/main/java/com/atguigu/gmall0416/usermanage/controller/AttrManageController.java" />
+        <option value="$PROJECT_DIR$/gmall-manage-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../SoftWareJava/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\SoftWareJava\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.multiModuleProjectDirectory=$M2_HOME" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/gmall0416.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="y" value="6" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gmall0416" type="58d84e3e:PackageViewProjectNode" />
+              <item name="gmall-parent" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="gmall0416" type="58d84e3e:PackageViewProjectNode" />
+              <item name="gmall-parent" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+            </path>
+            <path>
+              <item name="gmall0416" type="58d84e3e:PackageViewProjectNode" />
+              <item name="gmall-parent" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="gmall0416" type="58d84e3e:PackageViewProjectNode" />
+              <item name="gmall-parent" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="sun" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gmall-manage-web/src/main/resources/static" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gmall0416\gmall-parent\src\test" />
+      <recent name="D:\gmall0416\gmall-bean\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gmall0416\gmall-manage-web\src\main\resources\static" />
+      <recent name="D:\gmall0416" />
+      <recent name="D:\gmall0416\gmall-bean\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.gmall0416.manage.mapper" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.gmall0416.bean" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.11282844" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.GmallManageServiceApplication">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gmall0416/gmall-manage-web/templates/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="GmallManageServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-manage-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall0416.manage.GmallManageServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallManageWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gmall-manage-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall0416.usermanage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall0416.usermanage.GmallManageWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOrderWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-order-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall0416.order.GmallOrderWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUsermanageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-usermanage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall0416.usermanage.GmallUsermanageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GmallManageWebApplication" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d3e3113-4888-4076-8e5a-0bbf30f530ba" name="Default Changelist" comment="" />
+      <created>1559043808639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559043808639</updated>
+      <workItem from="1559043811654" duration="10271000" />
+      <workItem from="1559105297947" duration="2525000" />
+      <workItem from="1559127077954" duration="3289000" />
+      <workItem from="1559130519552" duration="1401000" />
+      <workItem from="1559132082113" duration="3720000" />
+      <workItem from="1559136641815" duration="1103000" />
+      <workItem from="1559221676848" duration="1591000" />
+      <workItem from="1559223472760" duration="1130000" />
+      <workItem from="1559224751826" duration="1849000" />
+      <workItem from="1559226821594" duration="9768000" />
+      <workItem from="1559309725526" duration="5925000" />
+      <workItem from="1559397898157" duration="4189000" />
+      <workItem from="1559458773898" duration="9924000" />
+      <workItem from="1559475893526" duration="405000" />
+      <workItem from="1559525462230" duration="5332000" />
+      <workItem from="1560047309399" duration="5567000" />
+      <workItem from="1560130565584" duration="3812000" />
+      <workItem from="1560139009664" duration="1298000" />
+      <workItem from="1560141564117" duration="9709000" />
+      <workItem from="1560172145025" duration="2142000" />
+      <workItem from="1560258113888" duration="2123000" />
+      <workItem from="1560263440149" duration="889000" />
+      <workItem from="1560266387595" duration="498000" />
+      <workItem from="1560269123720" duration="264000" />
+      <workItem from="1560269436389" duration="224000" />
+      <workItem from="1560270156099" duration="209000" />
+      <workItem from="1560270706279" duration="307000" />
+      <workItem from="1560346652434" duration="297000" />
+      <workItem from="1560347024936" duration="1480000" />
+      <workItem from="1560348741523" duration="589000" />
+      <workItem from="1560349486492" duration="1818000" />
+      <workItem from="1560439126596" duration="395000" />
+      <workItem from="1560563920592" duration="22561000" />
+      <workItem from="1560949907198" duration="2530000" />
+      <workItem from="1561515232538" duration="8883000" />
+      <workItem from="1561811426890" duration="20000" />
+      <workItem from="1561811813390" duration="1000" />
+      <workItem from="1561812131421" duration="77000" />
+      <workItem from="1561812339992" duration="9767000" />
+      <workItem from="1562064445436" duration="571000" />
+      <workItem from="1563003013027" duration="6297000" />
+      <workItem from="1563088883716" duration="728000" />
+      <workItem from="1563188548792" duration="914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="146392000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2473525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31290323" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4903226" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.18357489" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.2602118" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.14.RELEASE/spring-web-4.3.14.RELEASE.jar!/org/springframework/web/context/request/async/WebAsyncUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/jar/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+          <folding>
+            <element signature="e#6249#6250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.0/dubbo-2.6.0.jar!/com/alibaba/dubbo/rpc/proxy/InvokerInvocationHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.14.RELEASE/spring-web-4.3.14.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.14.RELEASE/spring-webmvc-4.3.14.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="531" selection-start-line="531" selection-end-line="531" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-web/src/main/java/com/atguigu/gmall0416/order/GmallOrderWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-web/src/main/java/com/atguigu/gmall0416/order/controller/OderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="33" column="64" lean-forward="true" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall0416/usermanage/controller/UserInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/atguigu/gmall0416/gmall-bean/1.0-SNAPSHOT/gmall-bean-1.0-SNAPSHOT.jar!/com/atguigu/gmall0416/bean/UserAddress.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-interface/src/main/java/com/atguigu/gmall0416/service/UserAddressService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-interface/src/main/java/com/atguigu/gmall0416/service/UserInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall0416/usermanage/service/impl/UserInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.14.RELEASE/spring-webmvc-4.3.14.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="401" selection-start-line="401" selection-end-line="401" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-web/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall0416/usermanage/GmallUsermanageApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="20" selection-start-line="11" selection-start-column="3" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/target/test-classes/com/atguigu/gmall0416/usermanage/GmallUsermanageWebApplicationTests.class" />
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/src/test/java/com/atguigu/gmall0416/usermanage/GmallManageWebApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/src/main/resources/static/easyui/src/easyloader.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-web-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-common-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.10.RELEASE/spring-boot-1.5.10.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3309">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.10.RELEASE/spring-boot-autoconfigure-1.5.10.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE.jar!/org/springframework/context/annotation/ComponentScan.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.14.RELEASE/spring-web-4.3.14.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-287">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/src/main/resources/templates/attrListPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/src/main/java/com/atguigu/gmall0416/usermanage/controller/ManageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/BaseCatalog2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/BaseCatalog3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/BaseAttrInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/BaseAttrValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.5.10.RELEASE/spring-boot-starter-parent-1.5.10.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="151" column="16" selection-start-line="151" selection-start-column="16" selection-end-line="151" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-usermanage/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall0416/bean/BaseCatalog1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/mapper/BaseCatalog1Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/mapper/BaseCatalog2Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/mapper/BaseCatalog3Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/mapper/BaseAttrInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/mapper/BaseAttrValueMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-interface/src/main/java/com/atguigu/gmall0416/service/ManageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/service/impl/ManageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/src/main/java/com/atguigu/gmall0416/usermanage/controller/AttrManageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/src/main/java/com/atguigu/gmall0416/usermanage/GmallManageWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-usermanage/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="13" selection-start-line="4" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall0416/manage/GmallManageServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-daemon</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gmall-manage-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
